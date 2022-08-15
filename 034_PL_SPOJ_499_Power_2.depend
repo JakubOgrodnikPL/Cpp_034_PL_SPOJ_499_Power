@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651945267 source:c:\users\jakub\documents\034_pl_spoj_499_power_2\main.cpp
+	<iostream>
+	<math.h>
+
